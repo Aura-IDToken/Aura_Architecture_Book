@@ -1,0 +1,18 @@
+# Aura Architecture Book v2
+
+## Dokumenty
+
+1.  01_GENESIS.md
+2.  02_PROTOCOL_SPECIFICATION.md
+3.  03_FEDERATION_OF_CORES.md
+4.  04_REPOSITORY_ANALYSIS.md
+5.  05_ARCHITECTURE_RECORDS.md
+6.  06_PROTOCOL_INVARIANTS.md
+7.  07_TRUST_GUARANTEES.md
+8.  08_CONFORMANCE.md
+9.  09_ENGINEERING.md
+10. 10_ROADMAP.md
+11. 11_ARCHITECTURAL_ATLAS.md
+12. 12_SYSTEM_RESTORE.md
+
+Każdy dokument jest szkieletem do dalszego uzupełniania.
