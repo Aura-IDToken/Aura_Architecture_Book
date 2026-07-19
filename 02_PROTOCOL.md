@@ -1,13 +1,4 @@
-# Aura Protocol
+# Protocol
 
-## Potwierdzone obserwacje
-
--   Implementacje referencyjne istnieją w Pythonie i Ruście.
--   Konstytucja pełni rolę normatywną.
--   Architektura wykorzystuje deterministyczny model obliczeń.
-
-## Architektura docelowa
-
-Mathematical Core → Evidence Model → Decision Engine → Attestation
-Engine → Cryptographic Core → Operational Core → Assurance Core →
-Conformance Core
+Sekcje: Constitution, Trust Model, Threat Model, Root of Trust, Chain of
+Trust, Federation of Cores, Protocol Invariants, Trust Guarantees.

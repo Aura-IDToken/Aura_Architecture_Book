@@ -1,9 +1,3 @@
-# Volume V --- Architecture Records
+# Architecture Records
 
--   ADR
--   ARR
--   ADC
--   ACI
--   ADM
-
-Każdy wpis: - Kontekst - Decyzja - Alternatywy - Konsekwencje
+ADR ARR ADC ACI ADM CGR CTM z pełnym śledzeniem decyzji.
