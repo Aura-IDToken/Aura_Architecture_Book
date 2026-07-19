@@ -1,13 +1,13 @@
-# Volume I --- Genesis
+# Genesis
 
-## Cel
+## Historia analiz
 
-Historia projektu, motywacja, ewolucja architektury.
+-   Od odzyskania wiedzy o repozytoriach.
+-   Przejście od analizy kodu do analizy protokołu.
+-   Wypracowanie modelu Conformance.
 
-## Rozdziały
+## Repozytoria
 
--   Geneza
--   Oś czasu
--   Ewolucja decyzji
--   Lessons Learned
--   Historia analiz
+-   aura-poc-a-core
+-   aura-guard-v1.3
+-   aura-sign-mvp
